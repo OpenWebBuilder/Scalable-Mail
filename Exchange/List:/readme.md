@@ -1,0 +1,2 @@
+- List: https://www.wpoven.com/blog/free-smtp-servers-sending-emails/
+- List: https://www.wpbeginner.com/showcase/best-smtp-service-providers-with-high-email-deliverability/
