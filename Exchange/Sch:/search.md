@@ -1,4 +1,4 @@
-- Sch: https://www.google.com/search?q=high+performance+mail+serve
+- Sch: https://www.google.com/search?q=high+performance+mail+server
 - Sch: https://www.google.com/search?q=high+volume+SMTP+relay
 - Sch: https://www.google.com/search?q=unlimited+SMTP+relay
 
